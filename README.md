@@ -10,7 +10,7 @@ enthusiastic Web Developer and an Open Source enthusiast.<br> !!  Love to explor
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA** , ***Web Development (MERN Stack)***
 
 - 📫 How to reach me **rohangoyal991@gmail.com**
 
