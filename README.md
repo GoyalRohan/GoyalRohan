@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Goyal</h1>
-<h3 align="center">A passionate Competitive Programmer , an 
-enthusiastic Web Developer and an Open Source enthusiast.<br> !!  Love to explore new things  !!</h3>
+<h3 align="center">A Software Developer, Problem Solver and Content Creator.<br> !!  Love to explore new things  !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goyalrohan&label=Profile%20views&color=0e75b6&style=flat" alt="goyalrohan" /> </p>
 
