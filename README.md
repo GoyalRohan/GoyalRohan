@@ -11,9 +11,20 @@
 - 🥇 Solved 900+ problems on different coding platforms
 - :computer: Deep understanding of data structures, algorithms, and software architecture principles.🧠
 - :student: Experience in developing and maintaining scalable applications.🚀
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, here is my [Resume](https://docs.google.com/document/d/1fpvHEZtwHK28QHxHxpk1yI4QiNZUoVccOPoMaC2IjyA/edit?usp=sharing)
+- :thinking: I’m currently open for a new `job opportunity`, here is my [Resume](https://drive.google.com/file/d/1I9Eqzj6H2OEB1adYbXcIe9NjpaIBldF3/view?usp=sharing)
 - 🔭 I'm deeply passionate about sharing my knowledge and insights with the community through podcasts and interview experiences on LinkedIn & YouTube. 🚀
 - 💖 10M+ views, 17K+ followers on LinkedIn, 200K+ views on Youtube🎙️
+
+----
+
+<h2>💻 Experience  </h2>
+
+| Organization                              | Position                         | Duration            | Technologies                                     |
+| ----------------------------------------- | ---------------------------------| ------------------- | ------------------------------------------------ |
+| **Compro Technologies (C4GT 23’)**           | Associate Software Engineer          | 04/2024 - Present   | Nuxt, Vue, Nitro , Node.js, MongoDb                       |
+| **Bosscoder Academy** | Software Engineering Intern                | 02/2024 - 04/2024   | React.js, Javascript, Node.js, Firebase                |
+| **Electrade (Hatchnhack Solutions Ltd.)** | Software Developer Intern                | 01/2023 - 05/2023   |  Node.js, Express.js, MySQL ,Amazon S3                |
+
 
 ----
 
