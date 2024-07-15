@@ -4,15 +4,19 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goyalrohan" alt="goyalrohan" /></a> </p>
+----
 
-<p align="left"> <a href="https://twitter.com/rohan_goyal16" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_goyal16?logo=twitter&style=for-the-badge" alt="rohan_goyal16" /></a> </p>
+- :school: Software Engineer working on Nuxt.js , Vue.js , React.js, Node.js, MongoDb MySQL
+- :trophy: 2+ YOE in software development, Cracked 5+ Offcampus Internships
+- 🥇 Solved 900+ problems on different coding platforms
+- :computer: Deep understanding of data structures, algorithms, and software architecture principles.🧠
+- :student: Experience in developing and maintaining scalable applications.🚀
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, here is my [Resume](https://docs.google.com/document/d/1fpvHEZtwHK28QHxHxpk1yI4QiNZUoVccOPoMaC2IjyA/edit?usp=sharing)
+- 🔭 I'm deeply passionate about sharing my knowledge and insights with the community through podcasts and interview experiences on LinkedIn & YouTube. 🚀
+- 💖 10M+ views, 17K+ followers on LinkedIn, 200K+ views on Youtube🎙️
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+----
 
-- 💬 Ask me about **DSA** , ***Web Development (MERN Stack)***
-
-- 📫 How to reach me **rohangoyal991@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
