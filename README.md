@@ -6,7 +6,7 @@
 
 ----
 
-- :school: Software Engineer working on Nuxt.js , Vue.js , React.js, Node.js, MongoDb MySQL
+- :school: Software Engineer working on `Nuxt.js` , `Vue.js` , `React.js`, `Node.js`, `MongoDb`, `MySQL`
 - :trophy: 2+ YOE in software development, Cracked 5+ Offcampus Internships
 - 🥇 Solved 900+ problems on different coding platforms
 - :computer: Deep understanding of data structures, algorithms, and software architecture principles.🧠
@@ -21,7 +21,7 @@
 
 | Organization                              | Position                         | Duration            | Technologies                                     |
 | ----------------------------------------- | ---------------------------------| ------------------- | ------------------------------------------------ |
-| **Compro Technologies (C4GT 23’)**           | Associate Software Engineer          | 04/2024 - Present   | Nuxt, Vue, Nitro , Node.js, MongoDb                       |
+| **Compro Technologies**           | Associate Software Engineer          | 04/2024 - Present   | Nuxt, Vue, Nitro , Node.js, MongoDb                       |
 | **Bosscoder Academy** | Software Engineering Intern                | 02/2024 - 04/2024   | React.js, Javascript, Node.js, Firebase                |
 | **Electrade (Hatchnhack Solutions Ltd.)** | Software Developer Intern                | 01/2023 - 05/2023   |  Node.js, Express.js, MySQL ,Amazon S3                |
 
